@@ -1,0 +1,14 @@
+h1{
+    color : #4B98F3;
+    border: 2px solid red;
+}
+li{
+    color : rgb(83, 172, 127)
+}
+h4{
+    color : green
+}
+body{
+    background: url(../bck.png);
+    background-repeat: repeat-y;
+}

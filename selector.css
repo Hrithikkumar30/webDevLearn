@@ -1,0 +1,16 @@
+/* *{
+    border: 2px solid black;
+} */
+h4 + ul{
+    border: 2px solid red;
+}
+a[href = "https://www.google.co.in/"]{
+    background: yellow;
+}
+/* ul:nth-of-type(3){
+    background: pink;
+} */
+li:nth-of-type(even){
+    color : yellow;
+    background: green;
+}
