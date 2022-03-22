@@ -1,0 +1,13 @@
+.nav navbar-nav navbar-right[li]{
+    float: right;
+}
+.navbar-inverse{
+    position: fixed;
+    background-color: rgba(32, 32, 61, 0.986);
+}
+body{
+   padding-top: 70px; 
+}
+.jumbotron{
+    background: rgba(226, 221, 221, 0.459);
+}
